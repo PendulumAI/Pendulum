@@ -6,6 +6,7 @@ Introduction
 
 Pendulum is an innovative cryptocurrency project that merges artificial intelligence and philosophy, using Large Language Models (LLMs) to explore and redefine our understanding of time. By analyzing patterns in human discourse, literature, and data, Pendulum seeks to create a decentralized system influenced by the philosophical and practical implications of time perception.
 
+
 **The Role of LLMs**
 
 Large Language Models, such as GPT, are at the core of Pendulum’s operation. These models are leveraged to:
@@ -36,6 +37,7 @@ Pendulum's AI ingests and preprocesses diverse datasets:
 
 • User Queries: Real-time inputs from Pendulum users.
 
+
 *Training and Fine-Tuning*
 
 Using transfer learning, the base LLM is fine-tuned to:
@@ -46,6 +48,7 @@ Using transfer learning, the base LLM is fine-tuned to:
 
 • Generate tokenomic adjustments based on temporal trends.
 
+
 *Smart Contract Integration*
 
 The LLM’s outputs are fed into Pendulum’s blockchain infrastructure via an API, ensuring:
@@ -55,6 +58,7 @@ The LLM’s outputs are fed into Pendulum’s blockchain infrastructure via an A
 • Transparent decision-making processes.
 
 • Immutable records of time-related insights.
+
 
 **Applications**
 
